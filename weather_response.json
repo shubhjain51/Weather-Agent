@@ -1,0 +1,59 @@
+{
+  "request": {
+    "type": "City",
+    "query": "Shikohabad, India",
+    "language": "en",
+    "unit": "m"
+  },
+  "location": {
+    "name": "Shikohabad",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "lat": "27.100",
+    "lon": "78.600",
+    "timezone_id": "Asia/Kolkata",
+    "localtime": "2026-09-03 19:57",
+    "localtime_epoch": 1788465420,
+    "utc_offset": "5.50"
+  },
+  "current": {
+    "observation_time": "02:27 PM",
+    "temperature": 26,
+    "weather_code": 353,
+    "weather_icons": [
+      "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png"
+    ],
+    "weather_descriptions": [
+      "Light rain shower"
+    ],
+    "astro": {
+      "sunrise": "05:56 AM",
+      "sunset": "06:34 PM",
+      "moonrise": "10:26 PM",
+      "moonset": "11:52 AM",
+      "moon_phase": "Waning Gibbous",
+      "moon_illumination": 65
+    },
+    "air_quality": {
+      "co": "353",
+      "no2": "17.4",
+      "o3": "66",
+      "so2": "6.6",
+      "pm2_5": "22.1",
+      "pm10": "22.1",
+      "us-epa-index": "2",
+      "gb-defra-index": "2"
+    },
+    "wind_speed": 9,
+    "wind_degree": 293,
+    "wind_dir": "WNW",
+    "pressure": 1002,
+    "precip": 1.7,
+    "humidity": 93,
+    "cloudcover": 100,
+    "feelslike": 29,
+    "uv_index": 0,
+    "visibility": 10,
+    "is_day": "no"
+  }
+}
